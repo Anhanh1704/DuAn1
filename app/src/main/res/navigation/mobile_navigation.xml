@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_trangchu"
+
+    >
+
+
+    <fragment
+        android:id="@+id/nav_trangchu"
+        android:name="com.example.duan1.ui.TrangChu.TrangChu_Fragment"
+        android:label="Trang Chủ"
+        tools:layout="@layout/fragment_trang_chu_" >
+        <action
+            android:id="@+id/action_trangChu_Fragment_to_soChiTieu_Fragment"
+            app:destination="@id/nav_sochitieu" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_sochitieu"
+        android:name="com.example.duan1.ui.SoChiTieu.SoChiTieu_Fragment"
+        android:label="Sổ Chi Tiêu"
+        tools:layout="@layout/fragment_so_chi_tieu_" >
+        <action
+            android:id="@+id/action_soChiTieu_Fragment_to_baoCaoFragment"
+            app:destination="@id/nav_baocao" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_baocao"
+        android:name="com.example.duan1.ui.BaoCao.BaoCaoFragment"
+        android:label="Báo Cáo"
+        tools:layout="@layout/fragment_bao_cao" >
+        <action
+            android:id="@+id/action_baoCaoFragment_to_caNhanFragment"
+            app:destination="@id/nav_canhan" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_canhan"
+        android:name="com.example.duan1.ui.CaNhan.CaNhanFragment"
+        android:label="Cá Nhân"
+        tools:layout="@layout/fragment_ca_nhan" />
+</navigation>
