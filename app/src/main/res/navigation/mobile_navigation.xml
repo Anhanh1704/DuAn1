@@ -23,16 +23,7 @@
         android:label="Sổ Chi Tiêu"
         tools:layout="@layout/fragment_so_chi_tieu" >
         <action
-            android:id="@+id/action_soChiTieu_Fragment_to_themFragment"
-            app:destination="@id/nav_them" />
-    </fragment>
-    <fragment
-        android:id="@+id/nav_them"
-        android:name="com.example.duan1.ui.Them.Them_Fragment"
-        android:label="Thêm"
-        tools:layout="@layout/fragment_them" >
-        <action
-            android:id="@+id/action_them_Fragment_to_baoCaoFragment"
+            android:id="@+id/action_soChiTieu_Fragment_to_baoCaoFragment"
             app:destination="@id/nav_baocao" />
     </fragment>
     <fragment

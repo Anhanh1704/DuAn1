@@ -13,18 +13,37 @@
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/app/src/main/res/layout/fragment_ca_nhan.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/drawable-v24/backdroung_item.xml" value="0.20625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/drawable/add.xml" value="0.2203125" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/drawable/add_circle_black_24dp.xml" value="0.2203125" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/drawable/backdroung_item.xml" value="0.20625" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/drawable/background_dialog.xml" value="0.20625" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/drawable/border.xml" value="0.20625" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/drawable/boxshadow.xml" value="0.20625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2203125" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/drawable/image_layout.xml" value="0.2203125" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/drawable/sogiaodich.xml" value="0.2203125" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/activity_dang_ky.xml" value="0.33" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/activity_in2.xml" value="0.19010416666666666" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/activity_list_nguoi_dung.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/activity_login.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/activity_main.xml" value="0.38450899031811897" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/activity_mn.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/activity_them.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/activity_them_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/content_them.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/dialog.xml" value="0.19010416666666666" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/dialog_nguoi_dung.xml" value="0.22" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/fragment_ca_nhan.xml" value="0.33" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/fragment_so_chi_tieu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/fragment_so_chi_tieu_.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/fragment_them.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/fragment_them_.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/fragment_trang_chu_.xml" value="0.1" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/layout/item_nguoi_dung.xml" value="0.33" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/menu/add.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/duan1/duan1/duan1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

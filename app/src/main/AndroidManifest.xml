@@ -13,6 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DUAN1">
         <activity
+            android:name=".ui.Them.ThemActivity"
+            android:exported="true" />
+        <activity
             android:name=".ui.NguoiDung.ListNguoiDungActivity"
             android:exported="true" />
         <activity

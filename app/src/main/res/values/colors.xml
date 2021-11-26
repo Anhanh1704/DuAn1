@@ -11,4 +11,5 @@
     <color name="colorWhite">#ffffff</color>
     <color name="colorPrimary">#0573ff</color>
     <color name="colorBlueT">#642fb4ff</color>
+    <color name="lightgreen">#90ee90</color>
 </resources>
