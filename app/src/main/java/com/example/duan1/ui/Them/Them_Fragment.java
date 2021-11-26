@@ -1,4 +1,4 @@
-package com.example.duan1.ui.TrangChu;
+package com.example.duan1.ui.Them;
 
 import android.os.Bundle;
 
@@ -12,10 +12,10 @@ import com.example.duan1.R;
 
 /**
  * A simple {@link Fragment} subclass.
- * Use the {@link TrangChu_Fragment#newInstance} factory method to
+ * Use the {@link Them_Fragment#newInstance} factory method to
  * create an instance of this fragment.
  */
-public class TrangChu_Fragment extends Fragment {
+public class Them_Fragment extends Fragment {
 
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -26,7 +26,7 @@ public class TrangChu_Fragment extends Fragment {
     private String mParam1;
     private String mParam2;
 
-    public TrangChu_Fragment() {
+    public Them_Fragment() {
         // Required empty public constructor
     }
 
@@ -36,11 +36,11 @@ public class TrangChu_Fragment extends Fragment {
      *
      * @param param1 Parameter 1.
      * @param param2 Parameter 2.
-     * @return A new instance of fragment TrangChu_Fragment.
+     * @return A new instance of fragment Them_Fragment.
      */
     // TODO: Rename and change types and number of parameters
-    public static TrangChu_Fragment newInstance(String param1, String param2) {
-        TrangChu_Fragment fragment = new TrangChu_Fragment();
+    public static Them_Fragment newInstance(String param1, String param2) {
+        Them_Fragment fragment = new Them_Fragment();
         Bundle args = new Bundle();
         args.putString(ARG_PARAM1, param1);
         args.putString(ARG_PARAM2, param2);
@@ -61,6 +61,6 @@ public class TrangChu_Fragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_trang_chu, container, false);
+        return inflater.inflate(R.layout.fragment_them, container, false);
     }
 }

@@ -12,7 +12,7 @@
         android:id="@+id/nav_trangchu"
         android:name="com.example.duan1.ui.TrangChu.TrangChu_Fragment"
         android:label="Trang Chủ"
-        tools:layout="@layout/fragment_trang_chu_" >
+        tools:layout="@layout/fragment_trang_chu" >
         <action
             android:id="@+id/action_trangChu_Fragment_to_soChiTieu_Fragment"
             app:destination="@id/nav_sochitieu" />
@@ -21,9 +21,18 @@
         android:id="@+id/nav_sochitieu"
         android:name="com.example.duan1.ui.SoChiTieu.SoChiTieu_Fragment"
         android:label="Sổ Chi Tiêu"
-        tools:layout="@layout/fragment_so_chi_tieu_" >
+        tools:layout="@layout/fragment_so_chi_tieu" >
         <action
-            android:id="@+id/action_soChiTieu_Fragment_to_baoCaoFragment"
+            android:id="@+id/action_soChiTieu_Fragment_to_themFragment"
+            app:destination="@id/nav_them" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_them"
+        android:name="com.example.duan1.ui.Them.Them_Fragment"
+        android:label="Thêm"
+        tools:layout="@layout/fragment_them" >
+        <action
+            android:id="@+id/action_them_Fragment_to_baoCaoFragment"
             app:destination="@id/nav_baocao" />
     </fragment>
     <fragment

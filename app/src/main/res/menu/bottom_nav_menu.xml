@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
 
     <item
         android:id="@+id/nav_trangchu"
@@ -11,7 +12,8 @@
         android:icon="@drawable/sogiaodich"
         android:title="Sổ Chi Tiêu" />
 
-    <item android:id="@+id/placeholder"
+    <item android:id="@+id/nav_them"
+        android:icon="@drawable/add"
         android:title=""/>
 
     <item
