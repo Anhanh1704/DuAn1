@@ -30,7 +30,7 @@ public class Data extends SQLiteOpenHelper {
                         "mact TEXT PRIMARY KEY,"+
                         "tenct TEXT,"+
                         "anhct TEXT,"+
-                        "ngayct DATE,"+
+                        "ngayct TEXT,"+
                         "tienct TEXT ," +
                         "loaict TEXT ," +
                         "ghichu TEXT ," +
